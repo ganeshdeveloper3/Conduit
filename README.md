@@ -1,6 +1,4 @@
 # Conduit
-initial commit
-
 
 ![](https://cloud.githubusercontent.com/assets/556934/25672246/9a20e960-2fe7-11e7-99d3-23652878a2c2.png)
 
